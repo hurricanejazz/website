@@ -9,5 +9,6 @@ h1 {
 
 button {
     background-color: transparent;
-    color:white;
+    color:wheat;
+    border: none;
 }
